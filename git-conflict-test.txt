@@ -2,5 +2,11 @@ Hi mate!!!
 Welcome to learn about Github 
 This is a test line for Git conflict: main branch
 
+Hi mate this is test !!!
+The testing line form test branch
+
 Hi mate this is from main brach
 Have added new modifications
+
+
+
